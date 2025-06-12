@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Szymczak_ZDJ.jpeg"
   name             : "Wojciech (voy-check) Szymczak "
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics"
-  location         : "Earth"
-  employer         : "Uppsala University; Institute for Structural Research (IBS), Warsaw, Poland"
+  location         : "Uppsala"
+  employer         : "Uppsala University"
   uri              : # URL
   email            : "wojszymcz@gmail.com" 
 
