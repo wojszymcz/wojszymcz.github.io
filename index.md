@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
  [<a href="/files/CV_Szymczak.pdf">CV</a>] 
  
