@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: Home
 ---
  [<a href="/files/CV_Szymczak.pdf">CV</a>] 
