@@ -6,7 +6,8 @@ title: Home
  
 # Working Papers
 
-<a href="/publications/docs/X.pdf">"X"</a> _with Andrew Smith_
+<a href="(https://ibs.org.pl/wp-content/uploads/2024/09/Automation_AtypicalEmployment_IBS_WP_022024.pdf)">"Automation, Trade Unions and
+Atypical Employment"</a> _with Piotr Lewandowski (IBS, IZA, RWI)_
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<a href="/assets/docs/Policy_Writing_Sample_PEG.pdf">Policy-oriented technical summary</a>]
