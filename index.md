@@ -7,10 +7,13 @@ title: Home
 # Working Papers
 
 ["Automation, Trade Unions and
-Atypical Employment"](https://ibs.org.pl/wp-content/uploads/2024/09/Automation_AtypicalEmployment_IBS_WP_022024.pdf) _with Piotr Lewandowski (IBS, IZA, RWI)_ 
+Atypical Employment"](https://ibs.org.pl/wp-content/uploads/2024/09/Automation_AtypicalEmployment_IBS_WP_022024.pdf) _with Piotr Lewandowski (IBS, IZA, RWI)_ (_R&R_ at Industrial Relations)
 
 <br/><br/>
-<br/><br/>
+# Work in Progress
+["Bread & Salt? Evidence on the impact of Ukrainian refugees in Polish education system.
+"] (_Presenting at Frontiers of Causal Inference and Machine Learning, Lucca 2025_) (Draft available uppon request) 
+
 
 # Publication
 
