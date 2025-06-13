@@ -3,12 +3,13 @@ layout: archive
 title: Personal
 ---
 
-I am a Researcher at Institute for Structural Research, Warsaw Poland. My research interests are: education, labor economics and applied econometrics. My research focus on the transition between education and labor market. 
-<br/>
+I am a Researcher at the Institute for Structural Research in Warsaw, Poland. My research interests lie in education, labor economics, and applied econometrics, with a particular focus on the transition from education to the labor market.
 
-<b>I will be joining Uppsala University this fall as a PhD Student.</b> 
 <br/>
-I have graduated from University of Warsaw with a degree in Econometrics. 
+<b>In fall 2025, I will begin my PhD studies at Uppsala University.</b>
+
+<br/>
+I hold a degree in Econometrics from the University of Warsaw.
 
 Find my <a href="/files/CV_Szymczak.pdf">CV</a> here. 
 
@@ -20,9 +21,12 @@ Atypical Employment"](https://ibs.org.pl/wp-content/uploads/2024/09/Automation_A
 
 <br/><br/>
 # Work in Progress
-["Bread & Salt? Evidence on the impact of Ukrainian refugees in Polish education system.
-"] (_Presenting at Frontiers of Causal Inference and Machine Learning, Lucca 2025_) (Draft available uppon request) 
-
+"Bread & Salt? Evidence on the impact of Ukrainian refugees in Polish education system.
+" (_Presenting at Frontiers of Causal Inference and Machine Learning, Lucca 2025_) (Draft available uppon request) 
+<br/>
+"New forms of work and workers’ demand for security and stability" _with Zuzanna Kowalik (IBS, University of Warsaw), Piotr Lewandowski (IBS, IZA, RWI)_
+<br/>
+"Learning method and entry to the labor market"
 
 # Publications
 
