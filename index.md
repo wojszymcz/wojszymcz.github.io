@@ -2,7 +2,19 @@
 layout: archive
 title: Home
 ---
- [<a href="/files/CV_Szymczak.pdf">CV</a>] 
+
+# Personal
+
+I am a Researcher at Institute for Structural Research, Warsaw Poland. My research interests are: education, labor economics and applied econometrics. My research focus on the transition between education and labor market. 
+
+<br/><br/>
+
+<b>I will be joining Uppsala University this fall as a PhD Student.</b> 
+<br/><br/>
+I have graduated from University of Warsaw with a degree in Econometrics. 
+
+Find my <a href="/files/CV_Szymczak.pdf">CV</a> here. 
+
  
 # Working Papers
 
