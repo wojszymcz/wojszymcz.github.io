@@ -8,10 +8,9 @@ title: Personal
 
 I am a Researcher at [the Institute for Structural Research in Warsaw, Poland](https://ibs.org.pl/en/). My research interests lie in the intersection between education, labor economics, and applied econometrics, with a particular focus on the transition from education to the labor market.
 
-<br/><br/>
+<br/>
 <b>In fall 2025, I will begin my PhD studies at Uppsala University.</b>
-
-<br/><br/>
+<br/>
 I hold a degree in Econometrics from the University of Warsaw.
 
 Find my <a href="/files/CV_Szymczak.pdf">CV</a> here. 
