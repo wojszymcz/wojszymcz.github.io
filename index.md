@@ -12,10 +12,9 @@ I am a Researcher at [the Institute for Structural Research in Warsaw, Poland](h
 <b>In fall 2025, I will begin my PhD studies at Uppsala University.</b>
 <br/>
 I hold a degree in Econometrics from the University of Warsaw.
-
+<br/>
 Find my <a href="/files/CV_Szymczak.pdf">CV</a> here. 
 
- 
 # Working Papers
 
 ["Automation, Trade Unions and
